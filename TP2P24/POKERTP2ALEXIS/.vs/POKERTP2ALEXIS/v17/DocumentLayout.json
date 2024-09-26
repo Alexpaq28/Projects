@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\paquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:paquet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\cartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C25C2E0A-B55E-4D11-86CC-C84428DFB3B0}|POKERTP2ALEXIS.csproj|solutionrelative:cartes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T16:19:18.994Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T17:49:39.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-27T18:59:22.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paquet.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Paquet.cs",
+              "RelativeDocumentMoniker": "Paquet.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Paquet.cs",
+              "RelativeToolTip": "Paquet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T16:06:07.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T17:39:41.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cartes.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Cartes.cs",
+              "RelativeDocumentMoniker": "Cartes.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\TP2P24\\POKERTP2ALEXIS\\Cartes.cs",
+              "RelativeToolTip": "Cartes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-28T16:04:24.979Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 16,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

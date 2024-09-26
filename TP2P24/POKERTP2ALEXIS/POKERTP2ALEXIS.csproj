@@ -1,0 +1,138 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\As_Carreau - Copy.gif" />
+    <None Remove="images\As_Carreau.gif" />
+    <None Remove="images\As_Coeur.gif" />
+    <None Remove="images\As_Pique - Copy.gif" />
+    <None Remove="images\As_Pique.gif" />
+    <None Remove="images\As_Trèfle.gif" />
+    <None Remove="images\Cinq_Carreau.gif" />
+    <None Remove="images\Cinq_Coeur.gif" />
+    <None Remove="images\Cinq_Pique.gif" />
+    <None Remove="images\Cinq_Trèfle.gif" />
+    <None Remove="images\Dame_Carreau.gif" />
+    <None Remove="images\Dame_Coeur.gif" />
+    <None Remove="images\Dame_Pique.gif" />
+    <None Remove="images\Dame_Trèfle.gif" />
+    <None Remove="images\Deux_Carreau.gif" />
+    <None Remove="images\Deux_Coeur.gif" />
+    <None Remove="images\Deux_Pique.gif" />
+    <None Remove="images\Deux_Trèfle.gif" />
+    <None Remove="images\Dix_Carreau.gif" />
+    <None Remove="images\Dix_Coeur.gif" />
+    <None Remove="images\Dix_Pique.gif" />
+    <None Remove="images\Dix_Trèfle.gif" />
+    <None Remove="images\Huit_Carreau.gif" />
+    <None Remove="images\Huit_Coeur.gif" />
+    <None Remove="images\Huit_Pique.gif" />
+    <None Remove="images\Huit_Trèfle.gif" />
+    <None Remove="images\Neuf_Carreau.gif" />
+    <None Remove="images\Neuf_Coeur.gif" />
+    <None Remove="images\Neuf_Pique.gif" />
+    <None Remove="images\Neuf_Trèfle.gif" />
+    <None Remove="images\Quatres_Carreau.gif" />
+    <None Remove="images\Quatres_Coeur.gif" />
+    <None Remove="images\Quatres_Pique.gif" />
+    <None Remove="images\Quatre_Trèfle.gif" />
+    <None Remove="images\Roi_Carreau.gif" />
+    <None Remove="images\Roi_Coeur.gif" />
+    <None Remove="images\Roi_Pique.gif" />
+    <None Remove="images\Roi_Trèfle.gif" />
+    <None Remove="images\Sept_Carreau.gif" />
+    <None Remove="images\Sept_Coeur.gif" />
+    <None Remove="images\Sept_Pique.gif" />
+    <None Remove="images\Sept_Trèfle.gif" />
+    <None Remove="images\Six_Carreau.gif" />
+    <None Remove="images\Six_Coeur.gif" />
+    <None Remove="images\Six_Pique.gif" />
+    <None Remove="images\Six_Trèfle.gif" />
+    <None Remove="images\Trois_Carreau.gif" />
+    <None Remove="images\Trois_Coeur.gif" />
+    <None Remove="images\Trois_Pique.gif" />
+    <None Remove="images\Trois_Trèfle.gif" />
+    <None Remove="images\Valet_Carreau.gif" />
+    <None Remove="images\Valet_Coeur.gif" />
+    <None Remove="images\Valet_Pique.gif" />
+    <None Remove="images\Valet_Trèfle.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\As_Carreau.gif" />
+    <Content Include="images\As_Coeur.gif" />
+    <Content Include="images\As_Pique.gif" />
+    <Content Include="images\As_Trèfle.gif" />
+    <Content Include="images\Cinq_Carreau.gif" />
+    <Content Include="images\Cinq_Coeur.gif" />
+    <Content Include="images\Cinq_Pique.gif" />
+    <Content Include="images\Cinq_Trèfle.gif" />
+    <Content Include="images\Dame_Carreau.gif" />
+    <Content Include="images\Dame_Coeur.gif" />
+    <Content Include="images\Dame_Pique.gif" />
+    <Content Include="images\Dame_Trèfle.gif" />
+    <Content Include="images\Deux_Carreau.gif" />
+    <Content Include="images\Deux_Coeur.gif" />
+    <Content Include="images\Deux_Pique.gif" />
+    <Content Include="images\Deux_Trèfle.gif" />
+    <Content Include="images\Dix_Carreau.gif" />
+    <Content Include="images\Dix_Coeur.gif" />
+    <Content Include="images\Dix_Pique.gif" />
+    <Content Include="images\Dix_Trèfle.gif" />
+    <Content Include="images\Huit_Carreau.gif" />
+    <Content Include="images\Huit_Coeur.gif" />
+    <Content Include="images\Huit_Pique.gif" />
+    <Content Include="images\Huit_Trèfle.gif" />
+    <Content Include="images\Neuf_Carreau.gif" />
+    <Content Include="images\Neuf_Coeur.gif" />
+    <Content Include="images\Neuf_Pique.gif" />
+    <Content Include="images\Neuf_Trèfle.gif" />
+    <Content Include="images\Quatres_Carreau.gif" />
+    <Content Include="images\Quatres_Coeur.gif" />
+    <Content Include="images\Quatres_Pique.gif" />
+    <Content Include="images\Quatre_Trèfle.gif" />
+    <Content Include="images\Roi_Carreau.gif" />
+    <Content Include="images\Roi_Coeur.gif" />
+    <Content Include="images\Roi_Pique.gif" />
+    <Content Include="images\Roi_Trèfle.gif" />
+    <Content Include="images\Sept_Carreau.gif" />
+    <Content Include="images\Sept_Coeur.gif" />
+    <Content Include="images\Sept_Pique.gif" />
+    <Content Include="images\Sept_Trèfle.gif" />
+    <Content Include="images\Six_Carreau.gif" />
+    <Content Include="images\Six_Coeur.gif" />
+    <Content Include="images\Six_Pique.gif" />
+    <Content Include="images\Six_Trèfle.gif" />
+    <Content Include="images\Trois_Carreau.gif" />
+    <Content Include="images\Trois_Coeur.gif" />
+    <Content Include="images\Trois_Pique.gif" />
+    <Content Include="images\Trois_Trèfle.gif" />
+    <Content Include="images\Valet_Carreau.gif" />
+    <Content Include="images\Valet_Coeur.gif" />
+    <Content Include="images\Valet_Pique.gif" />
+    <Content Include="images\Valet_Trèfle.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

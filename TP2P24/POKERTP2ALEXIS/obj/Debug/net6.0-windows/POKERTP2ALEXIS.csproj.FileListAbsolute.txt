@@ -1,0 +1,17 @@
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.Form1.resources
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.Properties.Resources.resources
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.csproj.GenerateResource.cache
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.AssemblyInfo.cs
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\bin\Debug\net6.0-windows\POKERTP2ALEXIS.exe
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\bin\Debug\net6.0-windows\POKERTP2ALEXIS.deps.json
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\bin\Debug\net6.0-windows\POKERTP2ALEXIS.runtimeconfig.json
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\bin\Debug\net6.0-windows\POKERTP2ALEXIS.dll
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\bin\Debug\net6.0-windows\POKERTP2ALEXIS.pdb
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.dll
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\refint\POKERTP2ALEXIS.dll
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.pdb
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\POKERTP2ALEXIS.genruntimeconfig.cache
+C:\Users\alexi\source\repos\TP2P24\POKERTP2ALEXIS\obj\Debug\net6.0-windows\ref\POKERTP2ALEXIS.dll
